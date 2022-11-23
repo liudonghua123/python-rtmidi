@@ -45,7 +45,7 @@ provides a thin wrapper around the RtMidi C++ interface. The API is basically
 the same as the C++ one but with the naming scheme of classes, methods and
 parameters adapted to the Python PEP-8 conventions and requirements of the
 Python package naming structure. **python-rtmidi** supports Python 3 (3.6, 3.7,
-3.8, and 3.9).
+3.8, 3.9, 3.10 and 3.10).
 
 The documentation_ provides installation instructions, a history of changes
 per release and an API reference.
